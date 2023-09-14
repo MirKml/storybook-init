@@ -1,5 +1,5 @@
 # Storybook 7 minimal bootstrap
-Minimal bootstrap for Storybook 7 with React, Typescript, Web pack
+Minimal bootstrap for Storybook 7 with React 17, Typescript 5.2, Webpack 5
 
     $ cd sb-init
     $./sb-init.sh
