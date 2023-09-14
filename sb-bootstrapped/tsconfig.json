@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        // we want standard classes, see #50947
+        "useDefineForClassFields": true,
+        "jsx": "react-jsx",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": false,
+        "experimentalDecorators": false,
+        "declaration": false,
+        "allowSyntheticDefaultImports": true,
+        // better checks for call, bind
+        "strictBindCallApply": true,
+        "lib": ["es2020", "dom"],
+        // don't global imports any types, use always imports in source codes
+        "types": [],
+        "baseUrl": "./"
+    }
+}

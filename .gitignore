@@ -1,0 +1,20 @@
+# common IDE files/folders
+.vscode
+.DS_STORE
+.module-cache
+*.log*
+sln
+test-result
+.vs
+.idea
+# vim swap files
+*.swp
+
+# repository specific ignores
+node_modules
+npm-debug.log
+storybook-static
+
+sb-init/.storybook/
+sb-init/stories/
+sb-init/.babelrc.json
