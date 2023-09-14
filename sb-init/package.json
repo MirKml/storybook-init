@@ -8,7 +8,7 @@
     "clear-cache": "rimraf node_modules/.cache/storybook"
   },
   "keywords": [],
-  "author": "m.kubelik@protank.cz",
+  "author": "koubel@seznam.cz",
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/react": "^17.0.65",

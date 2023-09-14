@@ -10,7 +10,7 @@
     "build-storybook": "storybook build"
   },
   "keywords": [],
-  "author": "m.kubelik@protank.cz",
+  "author": "koubel@seznam.cz",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/preset-env": "^7.22.15",
